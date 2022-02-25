@@ -1,0 +1,15 @@
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\bin\Debug\netcoreapp3.1\StockConsumer.deps.json
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\bin\Debug\netcoreapp3.1\StockConsumer.dll
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\bin\Debug\netcoreapp3.1\StockConsumer.pdb
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\bin\Debug\netcoreapp3.1\StockData.dll
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\bin\Debug\netcoreapp3.1\StockService.dll
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\bin\Debug\netcoreapp3.1\StockData.pdb
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\bin\Debug\netcoreapp3.1\StockService.pdb
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\obj\Debug\netcoreapp3.1\StockConsumer.csproj.AssemblyReference.cache
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\obj\Debug\netcoreapp3.1\StockConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\obj\Debug\netcoreapp3.1\StockConsumer.AssemblyInfoInputs.cache
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\obj\Debug\netcoreapp3.1\StockConsumer.AssemblyInfo.cs
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\obj\Debug\netcoreapp3.1\StockConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\obj\Debug\netcoreapp3.1\StockConsumer.dll
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\obj\Debug\netcoreapp3.1\StockConsumer.pdb
+C:\Users\Serdar\source\repos\StockAPI\StockConsumer\obj\Debug\netcoreapp3.1\StockConsumer.csproj.CopyComplete
