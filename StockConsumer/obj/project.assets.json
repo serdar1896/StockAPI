@@ -1598,11 +1598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockConsumer\\StockConsumer.csproj",
+      "projectUniqueName": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockConsumer\\StockConsumer.csproj",
       "projectName": "StockConsumer",
-      "projectPath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockConsumer\\StockConsumer.csproj",
+      "projectPath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockConsumer\\StockConsumer.csproj",
       "packagesPath": "C:\\Users\\Serdar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockConsumer\\obj\\",
+      "outputPath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Serdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1619,8 +1619,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockService\\StockService.csproj": {
-              "projectPath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockService\\StockService.csproj"
+            "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockService\\StockService.csproj": {
+              "projectPath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockService\\StockService.csproj"
             }
           }
         }

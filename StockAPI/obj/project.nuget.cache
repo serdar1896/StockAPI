@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pQj5YFL2n8MNrFFDFqJpHJVUbxTe1oPvzuT5bsBW5Z4ayU9yO6gRNNdBCJKaaqIkwZzFX4btIOHxxFF+4mO99g==",
+  "dgSpecHash": "baLOlXPo10CtBiwLK5YCC1JS9i03TuN6RgMdBPDozr6JaFjDS72KrCebrhh2ZCbNnigIvM97T0ojPdgAfIk/EA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockAPI\\StockAPI.csproj",
+  "projectFilePath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockAPI\\StockAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serdar\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\Serdar\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

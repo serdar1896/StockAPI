@@ -10,3 +10,16 @@ C:\Users\Serdar\source\repos\StockAPI\StockService\obj\Debug\netcoreapp3.1\Stock
 C:\Users\Serdar\source\repos\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.csproj.CoreCompileInputs.cache
 C:\Users\Serdar\source\repos\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.dll
 C:\Users\Serdar\source\repos\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.pdb
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\bin\Debug\netcoreapp3.1\StockService.deps.json
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\bin\Debug\netcoreapp3.1\StockService.dll
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\bin\Debug\netcoreapp3.1\StockService.pdb
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\bin\Debug\netcoreapp3.1\StockData.dll
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\bin\Debug\netcoreapp3.1\StockData.pdb
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.csproj.AssemblyReference.cache
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.AssemblyInfoInputs.cache
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.AssemblyInfo.cs
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.csproj.CopyComplete
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.dll
+C:\Users\Serdar\Documents\GitHub\StockAPI\StockService\obj\Debug\netcoreapp3.1\StockService.pdb

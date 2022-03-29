@@ -1186,11 +1186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockData\\StockData.csproj",
+      "projectUniqueName": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockData\\StockData.csproj",
       "projectName": "StockData",
-      "projectPath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockData\\StockData.csproj",
+      "projectPath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockData\\StockData.csproj",
       "packagesPath": "C:\\Users\\Serdar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockData\\obj\\",
+      "outputPath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Serdar\\AppData\\Roaming\\NuGet\\NuGet.Config",

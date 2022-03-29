@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IvTf16R8mkRqdKP8vcDhLHAz9LbGgebw0KPa/JCdy3ntqgAgLz97FmmeyEIDbcbOF0O4oGZUu6VibMtwzEjRsQ==",
+  "dgSpecHash": "yjtc2ITeGADsjZPV1FB9wp/rHLEQQLyHpSBqo22h9M3rTXkAone8qILzAiiTomHrEQM5o8BbHuOMtw5+l0Skgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockData\\StockData.csproj",
+  "projectFilePath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockData\\StockData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serdar\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Serdar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

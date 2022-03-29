@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P0N/dLTHXGCPf7UYY5UyOAc3JWa3g1b3spVNdHQb8ZRlUxjkttc8qCtyMYQVGuyTMRZNwhf8jCT8bRTpDT/mWQ==",
+  "dgSpecHash": "aKXYowboeLZQNH+XYd0x1yWCD9v8D5EQiXxyj+4mX+VraUVtZ/B0X0qQE/CTOkJr0WocZLYEG4rKHJkhxHqRIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockService\\StockService.csproj",
+  "projectFilePath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockService\\StockService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serdar\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Serdar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

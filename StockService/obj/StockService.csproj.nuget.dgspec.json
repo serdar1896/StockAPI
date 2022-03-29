@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockService\\StockService.csproj": {}
+    "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockService\\StockService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockData\\StockData.csproj": {
+    "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockData\\StockData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockData\\StockData.csproj",
+        "projectUniqueName": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockData\\StockData.csproj",
         "projectName": "StockData",
-        "projectPath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockData\\StockData.csproj",
+        "projectPath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockData\\StockData.csproj",
         "packagesPath": "C:\\Users\\Serdar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockData\\obj\\",
+        "outputPath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockService\\StockService.csproj": {
+    "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockService\\StockService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockService\\StockService.csproj",
+        "projectUniqueName": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockService\\StockService.csproj",
         "projectName": "StockService",
-        "projectPath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockService\\StockService.csproj",
+        "projectPath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockService\\StockService.csproj",
         "packagesPath": "C:\\Users\\Serdar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockService\\obj\\",
+        "outputPath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockData\\StockData.csproj": {
-                "projectPath": "C:\\Users\\Serdar\\source\\repos\\StockAPI\\StockData\\StockData.csproj"
+              "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockData\\StockData.csproj": {
+                "projectPath": "C:\\Users\\Serdar\\Documents\\GitHub\\StockAPI\\StockData\\StockData.csproj"
               }
             }
           }
